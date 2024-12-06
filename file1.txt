@@ -1,2 +1,1 @@
 this is devops course
-i'm learning azure devops
